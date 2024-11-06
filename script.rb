@@ -58,7 +58,7 @@ end
 # - Click "Actions" > "Manage keys" > "Add key" > "Create new key" > "JSON", and move the ".json" file into the same directory as this script
 # - Edit "service_account_file" to match the name of your key — 
 #
-service_account_file = "gsc-index-400005-b3da9e3fd4fc.json"
+service_account_file = "wt-instant-indexing-440909-70983061b266.json"
 #
 # - Invite your service account into your Google Search Console
 # - Search Console > "Settings" > "Users and Permissions" > "Add User" and enter the email of your service account
