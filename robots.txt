@@ -1,0 +1,12 @@
+# Robots.txt for https://websitetop.github.io/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /checkout/
+
+Allow: /
+
+# Sitemap location
+Sitemap: https://websitetop.github.io/sitemap.xml
